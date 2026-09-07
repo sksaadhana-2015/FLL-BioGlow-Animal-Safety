@@ -1,0 +1,35 @@
+date,latitude,longitude,animal_type,incident_type,severity,location_description
+2024-01-15,41.5868,-93.6250,Deer,Vehicle Accident,Death,Highway 69 near Merle Hay Road
+2024-01-22,41.5920,-93.6180,Raccoon,Vehicle Accident,Injury,Easton Boulevard
+2024-02-03,41.5800,-93.6300,Opossum,Vehicle Accident,Death,I-235 southbound
+2024-02-10,41.5950,-93.6150,Coyote,Vehicle Accident,Injury,Waterworks Road
+2024-02-28,41.5750,-93.6400,Deer,Vehicle Accident,Death,Polk City Road
+2024-03-15,41.6000,-93.6100,Squirrel,Vehicle Accident,Injury,Ingersoll Avenue
+2024-04-05,41.5800,-93.6250,Deer,Vehicle Accident,Death,Highway 163
+2024-04-20,41.5900,-93.6200,Raccoon,Vehicle Accident,Death,Aurora Avenue
+2024-05-12,41.5750,-93.6350,Fox,Vehicle Accident,Injury,Fleur Drive
+2024-05-25,41.5850,-93.6180,Opossum,Vehicle Accident,Death,I-80 eastbound
+2024-06-08,41.6050,-93.6050,Deer,Vehicle Accident,Death,Neal Smith Road
+2024-06-22,41.5920,-93.6220,Raccoon,Vehicle Accident,Injury,Beaver Avenue
+2024-07-10,41.5800,-93.6300,Coyote,Vehicle Accident,Death,Hickman Road
+2024-07-30,41.5950,-93.6150,Squirrel,Vehicle Accident,Injury,Grand Avenue
+2024-08-14,41.5750,-93.6400,Deer,Vehicle Accident,Death,Highway 44
+2024-08-28,41.5900,-93.6100,Fox,Vehicle Accident,Injury,Indianola Avenue
+2024-09-10,41.5850,-93.6250,Opossum,Vehicle Accident,Death,I-235 northbound
+2024-09-25,41.6000,-93.6200,Raccoon,Vehicle Accident,Injury,University Avenue
+2024-10-08,41.5800,-93.6350,Deer,Vehicle Accident,Death,Douglas Avenue
+2024-10-22,41.5920,-93.6180,Coyote,Vehicle Accident,Death,SE 14th Street
+2024-11-05,41.5750,-93.6300,Squirrel,Vehicle Accident,Injury,Park Avenue
+2024-11-20,41.6050,-93.6100,Fox,Vehicle Accident,Death,Waterfront Drive
+2024-12-10,41.5900,-93.6250,Deer,Vehicle Accident,Death,Highway 69
+2024-12-28,41.5800,-93.6200,Opossum,Vehicle Accident,Injury,Easton Boulevard
+2025-01-12,41.5950,-93.6150,Raccoon,Vehicle Accident,Death,I-235 southbound
+2025-01-30,41.5750,-93.6400,Deer,Vehicle Accident,Death,Polk City Road
+2025-02-14,41.6000,-93.6100,Coyote,Vehicle Accident,Injury,Waterworks Road
+2025-02-28,41.5900,-93.6200,Fox,Vehicle Accident,Death,Aurora Avenue
+2025-03-15,41.5850,-93.6250,Squirrel,Vehicle Accident,Injury,Ingersoll Avenue
+2025-04-02,41.5800,-93.6300,Deer,Vehicle Accident,Death,Highway 163
+2025-04-18,41.5920,-93.6180,Opossum,Vehicle Accident,Death,Neal Smith Road
+2025-05-05,41.6050,-93.6050,Raccoon,Vehicle Accident,Injury,Beaver Avenue
+2025-05-22,41.5750,-93.6350,Deer,Vehicle Accident,Death,Hickman Road
+2025-06-08,41.5900,-93.6100,Coyote,Vehicle Accident,Injury,Grand Avenue
